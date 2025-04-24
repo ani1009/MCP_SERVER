@@ -1,0 +1,10 @@
+1. Generative AI refers to artificial intelligence systems that can create new content such as text, images, music, code, and more, based on patterns learned from training data.
+2. Foundation models like GPT-4, Claude, and DALL-E form the backbone of many generative AI applications, trained on vast datasets to develop broad capabilities.
+3. Prompt engineering is the practice of designing effective inputs to guide generative AI systems to produce desired outputs, becoming a valuable skill in the AI era.
+4. Ethical considerations in generative AI include addressing biases in training data, ensuring proper attribution for generated content, and preventing the creation of harmful or misleading information.
+5. Generative AI applications span multiple industries: content creation, software development, healthcare diagnostics, drug discovery, design, entertainment, and more.
+6. Multimodal AI systems can work across different types of data (text, images, audio) simultaneously, creating more versatile and capable generative models.
+7. Fine-tuning involves adapting pre-trained generative models to specific tasks or domains, allowing for specialized applications with less training data and computing power.
+8. The economic impact of generative AI is projected to contribute trillions to the global economy through productivity gains, new products and services, and transformed business processes.
+9. RAG (Retrieval-Augmented Generation) combines generative capabilities with the ability to access and reference external knowledge sources, improving accuracy and reducing hallucinations.
+10. AI agents are emerging systems that use generative AI as a foundation but can take autonomous actions, plan steps, use tools, and adapt to feedback to complete complex tasks.
