@@ -11,4 +11,5 @@ Guidelines:- (For "AI STICKY NOTES)
 5. uv add "mcp[cli]"
 6. uv run mcp install main.py (here you can give any name to your file)
 7. Open Claude Desktop( If it is already Opened then close it and from Task Manager Stop it and Relaunch it)
-8. Enter Prompt Regarding Your Custom AI Notes 
+8. Enter Prompt Regarding Your Custom AI Notes
+9. It will Generates Notes and Save those Notes Regarding that Particular Topic
